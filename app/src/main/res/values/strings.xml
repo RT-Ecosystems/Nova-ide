@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Nova IDE</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_files">Files</string>
+    <string name="nav_editor">Editor</string>
+    <string name="nav_preview">Preview</string>
+    <string name="nav_web2apk">Web2APK</string>
+    <string name="nav_tools">Tools</string>
+
+    <string name="drawer_new_chat">New Chat</string>
+    <string name="drawer_recent_chats">Recent Chats</string>
+    <string name="drawer_quick_tools">Quick Access</string>
+    <string name="web2apk_title">Web-to-APK Converter</string>
+
+    <string name="chat_title">Nova AI Companion</string>
+    <string name="chat_subtitle">Chat • Builder • Pipeline</string>
+    <string name="chat_input_placeholder">Describe what to build or refactor...</string>
+    <string name="chat_search_toggle">Search</string>
+    <string name="chat_new_session">New Chat</string>
+    <string name="preview_auto_fix">Auto-Fix with AI</string>
+
+    <string name="files_title">Workspace</string>
+    <string name="files_root_label">projects</string>
+    <string name="files_empty_title">No projects yet</string>
+    <string name="files_empty_subtitle">Create a new starter project or import a repository directly from GitHub.</string>
+    <string name="files_new_project">New Project</string>
+    <string name="files_import_github">Import from GitHub</string>
+    <string name="files_new_file">New File</string>
+    <string name="files_new_folder">New Folder</string>
+    <string name="files_rename">Rename</string>
+    <string name="files_delete">Delete</string>
+
+    <string name="editor_no_file_title">No file open</string>
+    <string name="editor_no_file_subtitle">Open any source file from the Files tab to start editing with Sora Editor.</string>
+    <string name="editor_open_files_cta">Browse Workspace</string>
+    <string name="editor_save">Save</string>
+    <string name="editor_undo">Undo</string>
+    <string name="editor_redo">Redo</string>
+    <string name="editor_font_size">Font Size</string>
+    <string name="editor_run_preview">Run in Preview</string>
+
+    <string name="preview_title">Live Preview</string>
+    <string name="preview_badge">Localhost</string>
+    <string name="preview_subtitle">Select a project folder containing HTML files to launch the embedded localhost server.</string>
+    <string name="preview_console_title">Console</string>
+
+    <string name="tools_title">Tools &amp; Settings</string>
+    <string name="toolchain_manager_title">Android SDK Toolchain</string>
+    <string name="native_java_build_title">Native Java Build</string>
+    <string name="server_manager_title">Localhost Servers</string>
+    <string name="memory_manager_title">AI Memory</string>
+    <string name="voice_settings_title">Voice &amp; Edge-TTS</string>
+    <string name="git_clone_title">Clone GitHub Repository</string>
+    <string name="git_push_title">Commit &amp; Push Changes</string>
+    <string name="settings_ai_title">AI Provider Configuration</string>
+    <string name="settings_github_title">GitHub Credentials (Optional)</string>
+</resources>

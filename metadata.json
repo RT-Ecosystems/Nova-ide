@@ -1,0 +1,6 @@
+{
+  "name": "Nova IDE",
+  "description": "Developer-focused Android AI IDE with Sora code editor, workspace file manager, native JGit GitHub integration, and BYOK/Pollinations AI settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
